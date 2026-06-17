@@ -9,4 +9,4 @@ Aquí encontrarás una colección de ejercicios prácticos diseñados para apren
 
 Los ejercicios están pensados para practicar desde lo más básico hasta conceptos más avanzados.
 
-Añadida documentación para title.
+Añadida documentación para title (falta documentación header).
